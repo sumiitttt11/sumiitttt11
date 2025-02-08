@@ -72,7 +72,6 @@
   <a href="https://sumit-kumawat.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=squarespace&logoColor=white" />
   </a>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=squarespace&logoColor=white)](https://sumit-kumawat.vercel.app)
 
 </p>
 

@@ -54,24 +54,26 @@
 ## 📢 **Let's Connect!**  
 
 <p align="left">
-  <a href="https://github.com/sumiitttt11">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/sumiitttt11" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=square-github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sumiitttt11">
+  <a href="https://linkedin.com/in/sumiitttt11" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kumawatsumit984@gmail.com">
+  <a href="mailto:kumawatsumit984@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/sumiiitt.af">
+  <a href="https://www.instagram.com/sumiiitt.af" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/sumiitttt11">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/sumiitttt11" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=square-twitter&logoColor=white" />
   </a>
-  <a href="https://sumit-kumawat.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+  <a href="https://sumit-kumawat.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=squarespace&logoColor=white" />
+  </a>
+</p>
+
 
 </p>  
 

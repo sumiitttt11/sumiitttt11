@@ -1,21 +1,21 @@
-
-
-<!--
-**sumiitttt11/sumiitttt11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 🌟 Sumit Kumawat | @sumiitttt11  
 ### 🚀 Developer | 🛒 E-commerce Entrepreneur | 🛠️ Tech Enthusiast  
 
-Hey there! I'm **Sumit Kumawat**, a passionate developer and entrepreneur from Rajasthan, India. I enjoy building web applications, exploring new technologies, and working on innovative ideas.  
+Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my **B.E. at Lokmanya Tilak College of Engineering**. I enjoy building web applications, exploring new technologies, and working on innovative ideas.  
 
 ---
 
 ## 🔥 What I Do  
-- 💻 Developing **Expert-care**, a service platform similar to Urban Company, using **TypeScript** for backend.  
-- 🛒 Running **ShopHeaven (or CartHeaven)**, an e-commerce venture.  
-- 🐍 Learning **Python** to expand my tech stack.  
-- 📱 Exploring Android modding & optimization on my **POCO M4 Pro 5G**.  
+- 🚀 Building the Future, One Project at a Time!
+- 🔧 Crafting Expert-care, a next-gen service platform
+- 🛍️ Scaling ShopHeaven, my e-commerce venture, where shopping meets convenience.
+-🐍 Adding **Python** to my arsenal—because one language is never enough! 
+
+---
+
+## 🎓 Education  
+🎓 **B.E. in Progress** – *Lokmanya Tilak College of Engineering*  
+📊 Passionate about **Data Science, Machine Learning, and AI**  
 
 ---
 
@@ -46,25 +46,15 @@ Hey there! I'm **Sumit Kumawat**, a passionate developer and entrepreneur from R
 ## 📫 Let's Connect!  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumiitttt11)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumiitttt11)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
 ⚡ **"Code, Innovate, and Elevate!"** 🚀  
 
 ---
 
-### Want to make your profile even cooler?  
-Add an **animated snake** 🐍 that eats your contributions:  
+### 🐍 Fun Addition: GitHub Contribution Snake  
+You can add this animated **snake** 🐍 eating your contributions:  
 
 ```md
 ![Snake animation](https://github.com/sumiitttt11/sumiitttt11/blob/output/github-contribution-grid-snake.svg)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

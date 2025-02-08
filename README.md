@@ -21,7 +21,7 @@
 
 ## 🔦 **Tech Stack**  
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,tensorflow,postgresql,mongodb,git,github" />
 </p>  
 
@@ -44,7 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumiitttt11&theme=tokyonight" alt="GitHub Streak" />
 </p> -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumiitttt11&theme=tokyonight" />
 </p>
 

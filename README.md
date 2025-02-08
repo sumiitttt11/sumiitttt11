@@ -53,6 +53,5 @@ Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my *
 
 ⚡ **"Code, Innovate, and Elevate!"** 🚀  
 ```md
-
-> **"Software developers like to solve problems. If there are no problems available, they will create their own."** 😆💻  
+On a mission to save gotham city 🦇  
 

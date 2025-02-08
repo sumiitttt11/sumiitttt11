@@ -22,7 +22,7 @@
 ## 🔦 **Tech Stack**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tensorflow,postgresql,mongodb,git,github,docker,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,tensorflow,postgresql,mongodb,git,github" />
 </p>  
 
 ---
@@ -36,13 +36,13 @@
 
 ## 📊 **GitHub Stats**  
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumiitttt11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumiitttt11&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumiitttt11&theme=tokyonight" />

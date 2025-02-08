@@ -52,5 +52,7 @@ Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my *
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumiitttt11)  
 
 ⚡ **"Code, Innovate, and Elevate!"** 🚀  
-
 ```md
+
+> **"Software developers like to solve problems. If there are no problems available, they will create their own."** 😆💻  
+

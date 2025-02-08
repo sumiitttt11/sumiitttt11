@@ -1,6 +1,5 @@
-<h3 align="center">🌟 Sumit Kumawat | @sumiitttt11 🚀</h3>
-<h3 align="center">🚀Developer | 🛒 E-commerce Entrepreneur | 🛠️ Tech Enthusiast</h3>
-
+# 🌟 Sumit Kumawat | @sumiitttt11  
+### 🚀 Developer | 🛒 E-commerce Entrepreneur |  🛠️ Tech Enthusiast
 
 ---
 

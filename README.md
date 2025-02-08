@@ -1,33 +1,40 @@
-# 🌟 Sumit Kumawat | @sumiitttt11  
-### 🚀 Developer | 🛒 E-commerce Entrepreneur |  🛠️ Tech Enthusiast
+# ✨ **Sumit Kumawat** | `@sumiitttt11`  
+### 🚀 **Developer | 🛒 E-commerce Entrepreneur | 🧠 AI & ML Enthusiast**  
 
 ---
 
-## 🔥 What I Do  
-- 🚀 **Building the Future, One Project at a Time!**
-- 🔧 Crafting **Expert-care**, a next-gen service platform  
-- 🛍️ Scaling **ShopHeaven**, my e-commerce venture, where shopping meets convenience  
-- 🐍 Adding **Python** to my arsenal—because one language is never enough!  
+## 🔥 **What I Do**  
+
+- 🚀 **Building the Future, One Project at a Time!**  
+- 🔧 **Founder of Expert-care** – A next-gen service platform redefining convenience  
+- 🛒 **Scaling ShopHeaven** – Blending seamless shopping with cutting-edge tech  
+- 🤖 **Diving into AI & ML** – Making machines think smarter 🚀  
+- 🐍 **Mastering Python** – Because one language is never enough!  
 
 ---
 
-## 🎓 Education  
+## 🎓 **Education**  
 🎓 **B.E. in Progress** – *Lokmanya Tilak College of Engineering*  
-📊 Passionate about **Data Science, Machine Learning, and AI**  
+📊 Passionate about **Data Science, AI, and Machine Learning**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔦 **Tech Stack**  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,postgresql,tensorflow,python,nodejs,react,mongodb,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tensorflow,postgresql,mongodb,git,github,docker,linux,bash" />
+</p>  
 
-</p>
+---
 
+## ⚡ **Projects & Experience**  
+🔹 **Expert-care** – On-demand service platform  
+🔹 **ShopHeaven** – Scalable e-commerce venture  
+🔹 **AI/ML Projects** – Predictive modeling, NLP, and automation  
 
-<!---
+---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumiitttt11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -41,9 +48,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumiitttt11&theme=tokyonight" />
 </p>
 
---->
+---
 
-## 📫 Let's Connect!  
+## 📢 **Let's Connect!**  
 
 <p align="left">
   <a href="https://github.com/sumiitttt11">
@@ -61,11 +68,11 @@
   <a href="https://twitter.com/sumiitttt11">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+</p>  
 
 ---
 
-✨ **"Code, Innovate, and Elevate!"** 🚀  
+✨ **"Code, Innovate, Elevate!"** 🚀  
 
 ```md
-On a mission to save Gotham City 🦇
+On a mission to push boundaries & redefine possibilities.  

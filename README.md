@@ -21,15 +21,15 @@ Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my *
 
 ## 🛠️ Tech Stack  
 
-<-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)  
+<!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)  -->
 
----
+<!--
 
 ## 📊 GitHub Stats  
 
@@ -41,7 +41,7 @@ Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my *
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumiitttt11&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
+-->
 
 ## 📫 Let's Connect!  
 

@@ -20,7 +20,12 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,postgresql,numpy,tensorflow,python,nodejs,react,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,postgresql,tensorflow,python,nodejs,react,mongodb,git,github" />
+  <img src="https://img.shields.io/badge/Library-NumPy-blue?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Library-Pandas-purple?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Library-Matplotlib-orange?style=for-the-badge" />
+</p>
+
 </p>
 
 

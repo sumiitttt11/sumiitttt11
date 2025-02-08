@@ -1,9 +1,6 @@
 <h1 align="center">🌟 Sumit Kumawat | @sumiitttt11 🚀</h1>
-<h3 align="center">Developer | 🛒 E-commerce Entrepreneur | 🛠️ Tech Enthusiast</h3>
+<h3 align="center">🚀Developer | 🛒 E-commerce Entrepreneur | 🛠️ Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&lines=Data+Science+Enthusiast;Full+Stack+Developer;E-commerce+Entrepreneur;Android+Modding+Explorer" />
-</p>
 
 ---
 
@@ -27,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,mongodb,firebase,git,github" />
 </p>
 
----
+<!---
 
 ## 📊 GitHub Stats  
 
@@ -43,7 +40,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumiitttt11&theme=tokyonight" />
 </p>
 
----
+--->
 
 ## 📫 Let's Connect!  
 

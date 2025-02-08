@@ -28,6 +28,7 @@
 ---
 
 ## ⚡ **Projects & Experience**  
+🔹 **UnityMed** – On-demand Multi-Hospital service platform 
 🔹 **Expert-care** – On-demand service platform  
 🔹 **ShopHeaven** – Scalable e-commerce venture  
 🔹 **AI/ML Projects** – Predictive modeling, NLP, and automation  

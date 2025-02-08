@@ -1,5 +1,5 @@
 # 🌟 Sumit Kumawat | @sumiitttt11  
-### 🚀 Developer | <-- 🛒 E-commerce Entrepreneur | --> 🛠️ Tech Enthusiast  
+### 🚀 Developer | 🛒 E-commerce Entrepreneur |  🛠️ Tech Enthusiast  
 
 Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my **B.E. at Lokmanya Tilak College of Engineering**. I enjoy building web applications, exploring new technologies, and working on innovative ideas.  
 
@@ -21,7 +21,7 @@ Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my *
 
 ## 🛠️ Tech Stack  
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
+<-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  

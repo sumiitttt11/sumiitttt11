@@ -53,11 +53,4 @@ Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my *
 
 ⚡ **"Code, Innovate, and Elevate!"** 🚀  
 
----
-
-### 🐍 Fun Addition: GitHub Contribution Snake  
-You can add this animated **snake** 🐍 eating your contributions:  
-
-
-![Snake animation](https://github.com/sumiitttt11/sumiitttt11/blob/output/github-contribution-grid-snake.svg)
 ```md

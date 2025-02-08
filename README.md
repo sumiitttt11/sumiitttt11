@@ -1,5 +1,5 @@
 # 🌟 Sumit Kumawat | @sumiitttt11  
-### 🚀 Developer | 🛒 E-commerce Entrepreneur | 🛠️ Tech Enthusiast  
+### 🚀 Developer | <-- 🛒 E-commerce Entrepreneur | --> 🛠️ Tech Enthusiast  
 
 Hi, I'm **Sumit Kumawat**, a **Data Science enthusiast** currently pursuing my **B.E. at Lokmanya Tilak College of Engineering**. I enjoy building web applications, exploring new technologies, and working on innovative ideas.  
 

@@ -15,7 +15,7 @@ When I’m not coding, you’ll probably find me exploring new ideas, working on
 ---
 
 ## 🌍 Step Into My World
-👉 [sumitkumawat.online](https://www.sumitkumawat.dev/)  
+👉 [sumitkumawat.dev](https://www.sumitkumawat.dev/)  
 
 ---
 
